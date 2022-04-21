@@ -1,7 +1,13 @@
 # Egg-Snatchers
 
 作者：刘浩然
+
 ------
+
+## 下载地址
+
+[https://github.com/EESAST-Software-Design-Competition-2022/Egg-Snatchers/releases/tag/v1.0.0](https://github.com/EESAST-Software-Design-Competition-2022/Egg-Snatchers/releases/tag/v1.0.0)
+
 ## 基本信息
 名称：夺蛋录（体验版）
 
